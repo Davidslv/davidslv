@@ -10,7 +10,7 @@ I enjoy reading books such as:
 - *Generative Design* (for creating art with code)
 - *Software Architecture: The Hard Parts*
 
-For fun, I'm crafting Vanilla, a pure-Ruby roguelike inspired by the 1980s classic [Rogue](https://github.com/Davidslv/rogue). It features procedural maze generation, ECS architecture, and event-driven systems for a terminal-based adventure: [Vanilla Roguelike](https://github.com/Davidslv/vanilla-roguelike)
+For fun, I'm crafting Vanilla Roguelike, a pure-Ruby roguelike inspired by the 1980s classic [Rogue](https://github.com/Davidslv/rogue). It features procedural maze generation, ECS architecture, and event-driven systems for a terminal-based adventure: [Vanilla Roguelike](https://github.com/Davidslv/vanilla-roguelike)
 
 <!--
 **Davidslv/davidslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
