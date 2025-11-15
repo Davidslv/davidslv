@@ -14,6 +14,39 @@ For fun, I'm crafting [Vanilla Roguelike](https://github.com/Davidslv/vanilla-ro
 
 I'm author of the book 📕 [Building Your Own Roguelike: A Practical Guide](https://www.amazon.com/dp/B0G1RBWF6V).
 
+
+## Pokémon Pokédex (Gen 1 Edition)
+
+<img width="699" height="529" alt="Pokémon Pokédex Gen 1" src="https://github.com/user-attachments/assets/4db62451-6882-45fe-a05d-4ba1b3df00f6" />
+
+### Project Overview
+
+For my young nephew, an avid Pokémon fan, I built a kid-friendly digital Pokédex inspired by the original Generation 1 games (featuring all 151 classic Pokémon from Bulbasaur to Mew). This web app serves as a fun, interactive encyclopedia to help him explore and learn about his favorite pocket monsters—complete with vibrant artwork, key stats, and trivia—without the overwhelm of the full official Pokédex. It's an "approximate" version, meaning it's a simplified, custom take focused on essential details to spark joy and curiosity during playtime.
+
+This project was a labor of love, blending my passion for web development with family bonding. It taught me the power of user-centered design by thinking what would excite a 7-year-old.
+
+**Key Features**
+
+- **Voice Narration**: Leverages Web Speech Synthesis functions to read aloud Pokémon names, stats, and trivia for an immersive, hands-free experience.
+- **Kid-Safe Design**: Clean, colorful UI with large buttons, no ads.
+
+**Tech Stack**
+
+Vanilla HTML, CSS, and JavaScript for a lightweight, performant interface without frameworks, including Web Speech API for dynamic audio features.
+
+**Deployment**
+
+Hosted on Vercel for instant global access and auto-scaling.
+
+**Data**
+
+A prepared array of hashes with information on each Pokémon with no external API calls.
+
+Website: https://pokedex-lemon-nine.vercel.app
+
+
+---
+
 <!--
 **Davidslv/davidslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
