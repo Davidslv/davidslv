@@ -12,6 +12,8 @@ I enjoy reading books such as:
 
 For fun, I'm crafting [Vanilla Roguelike](https://github.com/Davidslv/vanilla-roguelike), a pure-Ruby roguelike inspired by the 1980s classic [Rogue](https://github.com/Davidslv/rogue). It features procedural maze generation, ECS architecture, and event-driven systems for a terminal-based adventure. 
 
+I'm author of the book [Building Your Own Roguelike: A Practical Guide](https://www.amazon.com/dp/B0G1RBWF6V).
+
 <!--
 **Davidslv/davidslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
