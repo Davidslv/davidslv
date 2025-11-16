@@ -18,8 +18,6 @@ This is my [personal portfolio](http://davidslv.uk/portfolio.html)
 
 Find me on LinkedIn: [linkedin.com/in/davidslv](https://www.linkedin.com/in/davidslv/)
 
-
-
 ## Pokémon Pokédex (Gen 1 Edition)
 
 <img width="699" height="529" alt="Pokémon Pokédex Gen 1" src="https://github.com/user-attachments/assets/4db62451-6882-45fe-a05d-4ba1b3df00f6" />
@@ -38,16 +36,6 @@ This project was a labor of love, blending my passion for web development with f
 **Tech Stack**
 
 Vanilla HTML, CSS, and JavaScript for a lightweight, performant interface without frameworks, including Web Speech API for dynamic audio features.
-
-**Deployment**
-
-Hosted on Vercel for instant global access and auto-scaling.
-
-**Data**
-
-A prepared array of hashes with information on each Pokémon with no external API calls.
-
-Website: https://pokedex-lemon-nine.vercel.app
 
 
 ---
