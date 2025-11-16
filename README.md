@@ -14,6 +14,11 @@ For fun, I'm crafting [Vanilla Roguelike](https://github.com/Davidslv/vanilla-ro
 
 I'm author of the book 📕 [Building Your Own Roguelike: A Practical Guide](https://www.amazon.com/dp/B0G1RBWF6V).
 
+This is my [personal portfolio](http://davidslv.uk/portfolio.html)
+
+Find me on LinkedIn: [linkedin.com/in/davidslv](https://www.linkedin.com/in/davidslv/)
+
+
 
 ## Pokémon Pokédex (Gen 1 Edition)
 
